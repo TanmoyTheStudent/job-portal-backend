@@ -117,6 +117,3 @@ const jobValidationSchema ={
 
 module.exports= jobValidationSchema
 
-//wafawfgaga
-//aefasdfag
-//afawfawrgqra
